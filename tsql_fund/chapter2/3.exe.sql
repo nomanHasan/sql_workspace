@@ -1,0 +1,1 @@
+SELECT * FROM HR.Employees where lastname like '%e%e%'
